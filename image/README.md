@@ -1,1 +1,1 @@
-# Rock- Paper - Seasor
+# ROCK-PAPER-SEASOR
